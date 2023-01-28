@@ -1,0 +1,20 @@
+.container .row .card{
+    margin: 30px;
+    margin-top: 50px;
+}
+
+#sizejumb {
+    min-height: 450px;
+}
+.card a {
+    padding: 30px;
+}
+div a div h5{
+    padding-top: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#rapih {
+    margin-bottom: 100px;
+}
