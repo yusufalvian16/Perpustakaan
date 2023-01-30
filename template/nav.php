@@ -22,8 +22,11 @@
                         <a class="dropdown-item" href="data-perpustakaan.php">Data Perpustakaan</a>
                     </ul>
                 </li>
+                <li class="ms-2 me-2">
+                    <button class="btn btn-light" ">login</button>
+                </li>
                 <li>
-                    <button class="btn btn btn-success">login</button>
+                    <button class=" btn btn-primary" id="butonku"><i class="bi bi-cloud-moon-fill"></i>
                 </li>
             </ul>
         </div>

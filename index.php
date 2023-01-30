@@ -21,6 +21,7 @@ $title = "Home" ?>
 			<p><i>anda belum login.</i></p>
 		</div>
 	</div>
+
 	<!-- end navbar -->
 
 	<div class="container" id="rapih">

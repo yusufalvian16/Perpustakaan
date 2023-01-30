@@ -5,4 +5,3 @@ if (!$koneksi){
 	echo "Koneksi database mysqli gagal!!! " . mysqli_connect_error();
 	
 }
-?>
